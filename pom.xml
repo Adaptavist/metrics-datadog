@@ -55,9 +55,9 @@
         </contributor>
     </contributors>
     <properties>
-        <metrics.version>4.0.2</metrics.version>
+        <metrics.version>4.1.5</metrics.version>
         <jackson.version>2.9.6</jackson.version>
-        <dropwizard.version>1.3.4</dropwizard.version>
+        <dropwizard.version>2.0.5</dropwizard.version>
     </properties>
     <build>
         <plugins>
